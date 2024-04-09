@@ -61,3 +61,27 @@
   border-radius: 8px;
   width: 50rem;
 }
+
+.counter-btn {
+  margin: 10px;
+}
+
+.list {
+  list-style: none;
+  border: 1px solid white;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 8px;
+  padding-left: 50px;
+  /* padding-right: 100px; */
+  width: 30vw;
+}
+
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
